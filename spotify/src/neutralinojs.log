@@ -1,0 +1,9 @@
+INFO 2022-07-17 14:59:28,290 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
+ERROR 2022-07-17 14:59:41,511 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 firey@PC110
+INFO 2022-07-17 15:02:26,488 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
+INFO 2022-07-17 15:03:42,820 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
+INFO 2022-07-17 15:06:46,597 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
+INFO 2022-07-17 15:23:16,487 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
+INFO 2022-07-17 15:25:45,516 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
+INFO 2022-07-17 15:31:34,633 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
+INFO 2022-07-17 15:40:44,435 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 firey@PC110
